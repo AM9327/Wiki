@@ -1,8 +1,5 @@
 <img src="https://i.imgur.com/34S3RTj.png" width=450>
 
-# Unofficial Wiki
-### Note: This wiki is not officially operated by CSX8600.
-
 ***
 **Links**
 
