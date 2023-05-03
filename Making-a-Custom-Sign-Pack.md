@@ -1,6 +1,3 @@
-**NOTE:** This page is still under construction and its contents may change at any time as we finalize features for v1.0.0 of Traffic Control.
-
-***
 ## Introduction
 Starting with version 1.0.0, Traffic Control supports custom Sign Packs. Making one may seem a tad complex, but we will go over every aspect of making a Sign Pack in this wiki page.
 
