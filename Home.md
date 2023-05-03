@@ -3,6 +3,6 @@
 ***
 **Links**
 
-[Making a custom Sign Pack](https://github.com/RavenholmZombie/trafficcontrol/wiki/Making-a-Custom-Sign-Pack)
+[Making a custom Sign Pack](https://github.com/CSX8600/trafficcontrol/wiki/Making-a-Custom-Sign-Pack)
 
-[OpenComputers Integration and Traffic Control Cards](https://github.com/RavenholmZombie/trafficcontrol/wiki/OpenComputers-and-Traffic-Lights)
+[OpenComputers Integration and Traffic Control Cards](https://github.com/CSX8600/trafficcontrol/wiki/OpenComputers-and-Traffic-Lights)
